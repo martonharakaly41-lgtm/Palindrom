@@ -4,6 +4,7 @@
 int main()
 {
     int num;
-    printf("Adjon meg egy szamot: ");
+    printf("Enter an integer number to check if it is palindrome or not: ");
+
     return 0;
-}
+}ff
